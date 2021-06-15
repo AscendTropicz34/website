@@ -4,7 +4,7 @@
     background-color: #FFFFFF;
     list-style-type: none;
     text-align: center;
-    width: 100%;
+    width: 1000px;
     top: 0px;
     margin-left: 0px;
     height: 40px;
@@ -21,8 +21,6 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    margin-left: 0px;
-    margin-right: 0px;
 }
 a {
     color: #FFFFFF;
@@ -47,4 +45,3 @@ li a {
 li a:hover {
   background-color: #111;
 }
-
